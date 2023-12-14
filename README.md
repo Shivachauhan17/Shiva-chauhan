@@ -18,8 +18,8 @@
 <hr style="border:2px solid gray">
 
 ### **About me**
-I am a data scientist from India.
-* Contributing to open source projects.
+I am a Full stack web developer from India.
+* Contributing to open source projects and making projects.
 * Writing tecnical blogs <a href="https://hashnode.com/@Shivachauhan17"><img src="https://img.shields.io/badge/Hashnode-blogs-blue"></a>
-* currently a egineering student of 3rd year
+*
 
